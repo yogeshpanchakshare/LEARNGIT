@@ -1,0 +1,13 @@
+<script>
+    //global scope variable
+    var data = 100;
+
+    if(true){
+        //local scope variable
+        var data = 200;
+        document.write("<h1>"+data+"</h1>"); //200
+    }
+
+    document.write("<h1>"+data+"</h1>");    //100
+
+</script>
