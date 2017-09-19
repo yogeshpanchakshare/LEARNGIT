@@ -1,0 +1,11 @@
+{
+  "name":"yogesh",
+
+"dependencies":
+{
+"angular":"latest",
+  "bower":"latest",
+  "bootstrap": "latest"
+
+}
+}
